@@ -10,10 +10,6 @@ Organizado em ** 21/07/2020 às 20h00 (Brasil) **
 
 
 ### Link para acessar o aplicativo: [PWA NEWS DIO] (https://pwa-news-dio.netlify.app/)
-
-### API usada neste POC: [API] (https://github.com/Tautorn/pwa-news-api)
-
-### Slides usados ​​nesta palestra: [Slides PWA News] (./ docs / pwa.pdf)
 ### Links importantes:
 
 - PWA criado para monitorar a Covid19 em todo o mundo
